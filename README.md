@@ -25,3 +25,4 @@ launchpad. then open settings now preferences go to font selection change all fo
 lucida grande regular with 9 as size. then go to preferences startup apps select + choose add application select plank enable it.
 for the genie effect go to system preferences extensions in download tab type magic lamp effect select download then go to system 
 preferences extensions select magic lamp select add for genie effect then genie effect is enabled. now you have macos like ui the old one
+for wallpaper use aurorablue.jpg file its found in the unzipped folder of the .zip download

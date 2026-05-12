@@ -1,8 +1,17 @@
-to install this in linux mint cinnamon first unzip the file then copy the 3 folders to /home/username. note to replace username with those folders are in linux mint cinnamon like snow leaopard folder.
-actual user name. then rename the following apps. no 1 files to Finder. no 2 calendar to iCal. no 3 Disks to Disk utillity. to do so
-open menu right click the app you want to change then select properties then rename. To change the icons of the app you have to
+Objective of this Repo:
+This will give the MAC OS SNOW LEOPARD theme for Mint Linux - Cinnamon Release
+
+Procedure :
+To install this in linux mint cinnamon first unzip the file then copy the 3 folders to /home/username. 
+note to replace username with those folders are in linux mint cinnamon like snow leaopard folder.
+actual user name. 
+then rename the following apps. no 1 files to Finder. no 2 calendar to iCal. no 3 Disks to Disk utillity. 
+to do so
+open menu right click the app you want to change then select properties then rename. 
+To change the icons of the app you have to
 right click the app you want to change icon select properties then click on the icon then click browse then go to 
-/home/username/.icontheme note to replace username with your actual username. at first the .iconteme may not appear because 
+/home/username/.icontheme 
+note to replace username with your actual username. at first the .icontheme may not appear because 
 it is hidden if .icontheme folder didnt appear right click at /home/username and select show hidden files then go into the
 .icontheme folder and click the app icon example finder finder.jpeg matching icon. there are only few app icos in this version
 we may release next version. then there could be more icons. to get the launchpad open system settings you can rename the system
@@ -26,3 +35,8 @@ lucida grande regular with 9 as size. then go to preferences startup apps select
 for the genie effect go to system preferences extensions in download tab type magic lamp effect select download then go to system 
 preferences extensions select magic lamp select add for genie effect then genie effect is enabled. now you have macos like ui the old one
 for wallpaper use aurorablue.jpg file its found in the unzipped folder of the .zip download
+
+After successful setup, the theme looks like this.
+<img width="1366" height="768" alt="snowleopardthemeforMintLinux" src="https://github.com/user-attachments/assets/e878c4cf-2c49-4576-b341-321f7a0dba9d" />
+
+

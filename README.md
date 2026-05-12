@@ -1,4 +1,4 @@
-to install this in linux mint cinnamon first unzip the file then copy the 3 folders to /home/username. note to replace username with 
+to install this in linux mint cinnamon first unzip the file then copy the 3 folders to /home/username. note to replace username with those folders are in linux mint cinnamon like snow leaopard folder.
 actual user name. then rename the following apps. no 1 files to Finder. no 2 calendar to iCal. no 3 Disks to Disk utillity. to do so
 open menu right click the app you want to change then select properties then rename. To change the icons of the app you have to
 right click the app you want to change icon select properties then click on the icon then click browse then go to 
